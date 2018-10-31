@@ -1,0 +1,33 @@
+{
+  "name": "react-native-universal-picker",
+  "version": "1.0.0",
+  "description": "A unified react native picker that looks same on both android and ios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynsgnr/universalPicker.git"
+  },
+  "keywords": [
+    "react-native",
+    "picker",
+    "unified"
+  ],
+  "author": "Yunus Güngör",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynsgnr/universalPicker/issues"
+  },
+  "homepage": "https://github.com/ynsgnr/universalPicker#readme",
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1",
+    "react": "^16.6.0",
+    "react-native": "^0.57.4"
+  }
+}
